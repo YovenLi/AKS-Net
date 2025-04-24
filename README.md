@@ -9,7 +9,7 @@ This repository contains the official implementation of "No-Reference Point Clou
 
 AKS-Net is a novel no-reference point cloud quality assessment framework that utilizes an adaptive keyframe selection strategy. The method treats point cloud projections as video sequences captured from successive viewpoints and selects the most representative frames for quality assessment.
 
-![Main Framework](imgs/pipeline.png)
+![Main Framework](pipeline.png)
 *Figure: The framework of the proposed method.*
 
 ## Key Features
@@ -22,7 +22,7 @@ AKS-Net is a novel no-reference point cloud quality assessment framework that ut
 
 ## Advantages Over Existing Methods
 
-![Projection Comparison](imgs/projection.png)
+![Projection Comparison](projection.png)
 *Figure: Three different point cloud projection strategies, including (a) 6-orthogonal projection, (b) fixed-interval projection along 4 orbits, and (c) our projection with adaptive keyframe selection.*
 
 Compared to existing methods:
@@ -53,7 +53,7 @@ AKS-Net achieves state-of-the-art performance on common point cloud quality asse
 | VQA-PCQA  | 0.57     | 0.63    | 0.13     | 0.30    |
 | **Ours**  | **0.88** | **0.90**| **0.24** | **0.31**|
 
-![Ablation Results](imgs/result.png)
+![Ablation Results](result.png)
 *Figure: (a) Information entropy comparison of different projection methods. (b) Performance with different numbers of keyframes.*
 
 ## Installation

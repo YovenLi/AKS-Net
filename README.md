@@ -3,6 +3,10 @@
 # AKS-Net
 
 ### No-Reference Point Cloud Quality Assessment with Adaptive Keyframe Selection
+<p align="center">
+  <b>**🏆 This paper has been accepted by VCIP 2024 🏆**</b>
+</p>
+
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-10.1109%2FVCIP63160.2024.10849833-blue)](https://doi.org/10.1109/VCIP63160.2024.10849833)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -14,9 +18,6 @@
   <img src="pipeline.png" alt="AKS-Net Framework" width="800px">
 </p>
 
-<p align="center">
-  <b>🏆 This paper has been accepted by VCIP 2024 🏆</b>
-</p>
 
 </div>
 

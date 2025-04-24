@@ -14,6 +14,10 @@
   <img src="pipeline.png" alt="AKS-Net Framework" width="800px">
 </p>
 
+<p align="center">
+  <b>🏆 This paper has been accepted by VCIP 2024 🏆</b>
+</p>
+
 </div>
 
 ## 📋 Table of Contents

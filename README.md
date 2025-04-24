@@ -4,7 +4,7 @@
 
 ### No-Reference Point Cloud Quality Assessment with Adaptive Keyframe Selection
 <p align="center">
-  <b>**🏆 This paper has been accepted by VCIP 2024 🏆**</b>
+  <b>🏆 This paper has been accepted by VCIP 2024 🏆</b>
 </p>
 
 

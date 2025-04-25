@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <td align="center">Haomiao Wang</td>
     <td align="center">Xiaochuan Wang<br><sub>(Corresponding Author)</sub><br><sub>wangxc@btbu.edu.cn</sub></td>
     <td align="center">Xianpeng Yuan</td>
-    <td align="center">Xianming Chen</td>
+    <td align="center">Xiaoming Chen</td>
     <td align="center">Haisheng Li</td>
   </tr>
 </table>

@@ -175,7 +175,7 @@ If you find our work useful for your research, please cite our paper:
 
 ```bibtex
 @INPROCEEDINGS{10849833,
-  author={Wang, Haomiao and Wang, Xiaochuan and Yuan, Xianpeng and Chen, Xianming and Li, Haisheng},
+  author={Wang, Haomiao and Wang, Xiaochuan and Yuan, Xianpeng and Chen, Xiaoming and Li, Haisheng},
   booktitle={2024 IEEE International Conference on Visual Communications and Image Processing (VCIP)}, 
   title={No-Reference Point Cloud Quality Assessment with Adaptive Keyframe Selection}, 
   year={2024},
@@ -193,8 +193,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <table>
   <tr>
-    <td align="center">Haomiao Wang</td>
-    <td align="center">Xiaochuan Wang<br><sub>(Corresponding Author)</sub><br><sub>wangxc@btbu.edu.cn</sub></td>
+    <td align="center">Haomiao Wang<br><sub>(First author)</sub><br><sub>haomiaowang2022@163.com</sub></td>
+    <td align="center">Xiaochuan Wang<br><sub>(Corresponding Author)</sub><br></td>
     <td align="center">Xianpeng Yuan</td>
     <td align="center">Xiaoming Chen</td>
     <td align="center">Haisheng Li</td>

@@ -13,6 +13,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.7+-ee4c2c.svg)](https://pytorch.org/)
 [![Conference](https://img.shields.io/badge/VCIP-2024-green.svg)](https://vcip2024.org/)
+[![Stars](https://img.shields.io/github/stars/YovenLi/AKS-Net?style=social)](https://github.com/YovenLi/AKS-Net)
 
 <p align="center">
   <img src="pipeline.png" alt="AKS-Net Framework" width="800px">
